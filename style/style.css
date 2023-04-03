@@ -47,6 +47,18 @@ ul li:nth-child(7) {
     animation-delay: 0.90s
 }
 
+ul li:nth-child(8) {
+    animation-delay: 1.05s
+}
+
+ul li:nth-child(9) {
+    animation-delay: 1.20s
+}
+
+ul li:nth-child(10) {
+    animation-delay: 1.35s
+}
+
 .list1 {
     margin: 10px 30px;
     text-align: center;
